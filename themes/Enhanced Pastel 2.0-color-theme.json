@@ -1898,7 +1898,7 @@
 		"terminal.ansiWhite": "#e5e5e5",
 		"terminal.ansiYellow": "#e5e510",
 		"breadcrumb.background": "#292c3e",
-		"breadcrumb.foreground": "#292c3e",
+		"breadcrumb.foreground": "#d9e0ee",
 		"breadcrumb.focusForeground": "#d9e0ee",
 		"editorGroupHeader.tabsBackground": "#292c3e",
 		"tab.activeForeground": "#ffffff",
