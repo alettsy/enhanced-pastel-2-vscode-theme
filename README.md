@@ -1,6 +1,6 @@
 # Enhanced Pastel 2.0
 
-Inspired by the theme (https://github.com/SakethKanchi/kitty-vscode-theme)[Kitty VSCode] by _SaketchKanchi_
+Inspired by the theme [Kitty VSCode](https://github.com/SakethKanchi/kitty-vscode-theme) by _SaketchKanchi_
 
 ## Installing
 
