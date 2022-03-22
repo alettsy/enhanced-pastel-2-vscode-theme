@@ -1,21 +1,22 @@
 {
-    "name": "enhanced-pastel-2-0",
-    "displayName": "Enhanced Pastel 2.0",
-    "description": "Pastel coloured theme inspired by Kitty VSCode Theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.65.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Enhanced Pastel 2.0",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Enhanced Pastel 2.0-color-theme.json"
-            }
-        ]
-    }
+	"name": "enhanced-pastel-2-0",
+	"displayName": "Enhanced Pastel 2.0",
+	"description": "Pastel coloured theme inspired by Kitty VSCode Theme",
+	"version": "0.0.1",
+	"repository": "https://github.com/hexbun/enhanced-pastel-2-vscode-theme",
+	"engines": {
+		"vscode": "^1.65.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Enhanced Pastel 2.0",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Enhanced Pastel 2.0-color-theme.json"
+			}
+		]
+	}
 }
